@@ -1,2 +1,5 @@
 https://shogo-araki.github.io/homepage
-one-corp-2024.com
+
+http://one-corp-2024.com/
+
+https://one-corp-2024.com
